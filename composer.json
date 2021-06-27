@@ -1,6 +1,7 @@
 {
     "name": "itwistermax/library",
     "description": "Class for working with messages",
+    "license": "MIT";
     "type": "library",
 	"authors": [
         {
