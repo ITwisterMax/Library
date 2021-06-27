@@ -17,5 +17,4 @@
             "course\\message\\": "src/course/message/"
         }
     },
-    "minimum-stability": "stable"
 }
